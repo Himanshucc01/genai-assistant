@@ -1,0 +1,6 @@
+streamlit
+transformers
+sentence-transformers
+PyPDF2
+cohere
+python-dotenv
