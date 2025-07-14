@@ -37,7 +37,12 @@ An interactive AI-powered assistant that lets you:
 ### ✅ Prerequisites
 
 - Python 3.9+
-- Cohere API Key (get it [here](https://dashboard.cohere.com/api-keys))
+- Cohere API Key
+
+> 🔐 **Generate your free Cohere API key from here:**  
+> [https://dashboard.cohere.com/api-keys](https://dashboard.cohere.com/api-keys)
+
+---
 
 ### 🛠️ Installation
 
